@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\bin\Debug\Lab02FormApp.exe.config
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\bin\Debug\Lab02FormApp.exe
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\bin\Debug\Lab02FormApp.pdb
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\obj\Debug\Lab02WinFormApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\obj\Debug\Lab02FormApp.Form1.resources
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\obj\Debug\Lab02FormApp.Properties.Resources.resources
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\obj\Debug\Lab02WinFormApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\obj\Debug\Lab02WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\obj\Debug\Lab02FormApp.exe
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\obj\Debug\Lab02FormApp.pdb
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\bin\Debug\HomeAppliances.dll
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\Lab02FormApp\bin\Debug\HomeAppliances.pdb

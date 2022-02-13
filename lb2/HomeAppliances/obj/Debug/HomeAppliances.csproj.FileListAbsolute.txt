@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\HomeAppliances\bin\Debug\HomeAppliances.dll
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\HomeAppliances\bin\Debug\HomeAppliances.pdb
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\HomeAppliances\obj\Debug\HomeAppliances.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\HomeAppliances\obj\Debug\HomeAppliances.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\HomeAppliances\obj\Debug\HomeAppliances.dll
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ2\code\HomeAppliances\obj\Debug\HomeAppliances.pdb

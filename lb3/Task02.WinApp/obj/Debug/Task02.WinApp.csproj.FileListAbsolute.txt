@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\bin\Debug\Task02.WinApp.exe.config
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\bin\Debug\Task02.WinApp.exe
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\bin\Debug\Task02.WinApp.pdb
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\obj\Debug\Task02.WinApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\obj\Debug\Task02.WinApp.Form1.resources
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\obj\Debug\Task02.WinApp.Properties.Resources.resources
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\obj\Debug\Task02.WinApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\obj\Debug\Task02.WinApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\obj\Debug\Task02.WinApp.exe
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\obj\Debug\Task02.WinApp.pdb
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\bin\Debug\ClassLibraryProduct.dll
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\bin\Debug\ClassLibraryProduct.pdb
+C:\Users\user\Desktop\Учёба\Технологии программирования\Лабы\ЛБ3\lb3\Task02.WinApp\obj\Debug\Task02.WinApp.csproj.CopyComplete

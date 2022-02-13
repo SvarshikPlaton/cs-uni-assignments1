@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryProduct.Product">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQBABQQAAAAAAEBAAAAABAAAAAEAEAAAAAAQQAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryProduct.WeightProduct">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAoQAAAAAAEAAAAAAQAAAAAAAAEAgAgAAAAAAAAA=</HashCode>
+      <FileName>WeightProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryProduct.CountProduct">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAAAAAAAQAAABAAAAAAAIAAAAECAAAgAAAAAAEg=</HashCode>
+      <FileName>CountProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lb5WinApp.Form1">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQgAgAEICAAABEAAACAACACAAAgAAAACAQAAEAAIAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lb5WinApp.Sensor">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQgAEAAAAAAAAAABAA=</HashCode>
+      <FileName>Sensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lb5WinApp.Temperature">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="lb5WinApp.Temperature.TemperatureReached">
+        <TypeIdentifier>
+          <NewMemberFileName>Temperature.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAQAAAAAAAAAAAAAgAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Temperature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

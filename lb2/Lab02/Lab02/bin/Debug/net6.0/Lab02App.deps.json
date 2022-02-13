@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab02App/1.0.0": {
+        "dependencies": {
+          "HomeAppliances": "1.0.0"
+        },
+        "runtime": {
+          "Lab02App.dll": {}
+        }
+      },
+      "HomeAppliances/1.0.0": {
+        "runtime": {
+          "HomeAppliances.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab02App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeAppliances/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

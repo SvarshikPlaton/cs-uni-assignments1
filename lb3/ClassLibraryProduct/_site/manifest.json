@@ -1,0 +1,176 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/user/Desktop/Учёба/Технологии программирования/Лабы/ЛБ3/ClassLibraryProduct",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "jJ6X2u+KV3Ex0H6A0jWIHfAOHdUMoweLPfpiXD+9yaQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "OL97kIa+wNHj1MhXrav6OTjrPusJG5WlrRQYjaEgQy4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "be6+GAJskDwP2w6WWti3JeOTy9eqmEKBB1gw+iGuAIc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/ClassLibraryProduct.CountProduct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ClassLibraryProduct.CountProduct.html",
+          "hash": "Erf0ISw4QEQvfX3giWp8+kZpSnTKtpkq2OQNkv2f9h0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/ClassLibraryProduct.Product.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ClassLibraryProduct.Product.html",
+          "hash": "gs2jdS86Jz27c7PefuzqvXbdOYSLYnakzaUlh29euBk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/ClassLibraryProduct.WeightProduct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ClassLibraryProduct.WeightProduct.html",
+          "hash": "AJqOhJrwBAk0vx1epQ7sCA9UpZbIuvEsIC81a0QlD4Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/ClassLibraryProduct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ClassLibraryProduct.html",
+          "hash": "RugDi/VIWgnxOmJxUlfU5dQVWcrPvu3RwZx0hIgSbeA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "N229zeIXr4RYIvEJ0ZgK6HP2qrpsGf/MgdzrQbeoXdw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Oa9PuD4E1hvZnCkVjUgzNBX6S00Zo5YilamTERTZo54="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because docfx version changed from 2.58.8.0 to 2.58.5.0.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "DocfxVersionChanged"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

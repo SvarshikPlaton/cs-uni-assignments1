@@ -1,0 +1,279 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ClassLibraryProduct
+  name: ClassLibraryProduct
+  href: api/ClassLibraryProduct.html
+  commentId: N:ClassLibraryProduct
+  fullName: ClassLibraryProduct
+  nameWithType: ClassLibraryProduct
+- uid: ClassLibraryProduct.CountProduct
+  name: CountProduct
+  href: api/ClassLibraryProduct.CountProduct.html
+  commentId: T:ClassLibraryProduct.CountProduct
+  fullName: ClassLibraryProduct.CountProduct
+  nameWithType: CountProduct
+- uid: ClassLibraryProduct.CountProduct.#ctor
+  name: CountProduct()
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct__ctor
+  commentId: M:ClassLibraryProduct.CountProduct.#ctor
+  fullName: ClassLibraryProduct.CountProduct.CountProduct()
+  nameWithType: CountProduct.CountProduct()
+- uid: ClassLibraryProduct.CountProduct.#ctor(System.String,System.String,System.String,System.Single,System.String)
+  name: CountProduct(String, String, String, Single, String)
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct__ctor_System_String_System_String_System_String_System_Single_System_String_
+  commentId: M:ClassLibraryProduct.CountProduct.#ctor(System.String,System.String,System.String,System.Single,System.String)
+  fullName: ClassLibraryProduct.CountProduct.CountProduct(System.String, System.String, System.String, System.Single, System.String)
+  nameWithType: CountProduct.CountProduct(String, String, String, Single, String)
+- uid: ClassLibraryProduct.CountProduct.#ctor(System.String,System.String,System.String,System.Single,System.String,System.Int32)
+  name: CountProduct(String, String, String, Single, String, Int32)
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct__ctor_System_String_System_String_System_String_System_Single_System_String_System_Int32_
+  commentId: M:ClassLibraryProduct.CountProduct.#ctor(System.String,System.String,System.String,System.Single,System.String,System.Int32)
+  fullName: ClassLibraryProduct.CountProduct.CountProduct(System.String, System.String, System.String, System.Single, System.String, System.Int32)
+  nameWithType: CountProduct.CountProduct(String, String, String, Single, String, Int32)
+- uid: ClassLibraryProduct.CountProduct.#ctor(System.String,System.String,System.String,System.Single,System.String,System.Int32,System.String)
+  name: CountProduct(String, String, String, Single, String, Int32, String)
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct__ctor_System_String_System_String_System_String_System_Single_System_String_System_Int32_System_String_
+  commentId: M:ClassLibraryProduct.CountProduct.#ctor(System.String,System.String,System.String,System.Single,System.String,System.Int32,System.String)
+  fullName: ClassLibraryProduct.CountProduct.CountProduct(System.String, System.String, System.String, System.Single, System.String, System.Int32, System.String)
+  nameWithType: CountProduct.CountProduct(String, String, String, Single, String, Int32, String)
+- uid: ClassLibraryProduct.CountProduct.#ctor*
+  name: CountProduct
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct__ctor_
+  commentId: Overload:ClassLibraryProduct.CountProduct.#ctor
+  isSpec: "True"
+  fullName: ClassLibraryProduct.CountProduct.CountProduct
+  nameWithType: CountProduct.CountProduct
+- uid: ClassLibraryProduct.CountProduct.Add(System.Int32)
+  name: Add(Int32)
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct_Add_System_Int32_
+  commentId: M:ClassLibraryProduct.CountProduct.Add(System.Int32)
+  fullName: ClassLibraryProduct.CountProduct.Add(System.Int32)
+  nameWithType: CountProduct.Add(Int32)
+- uid: ClassLibraryProduct.CountProduct.Add*
+  name: Add
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct_Add_
+  commentId: Overload:ClassLibraryProduct.CountProduct.Add
+  isSpec: "True"
+  fullName: ClassLibraryProduct.CountProduct.Add
+  nameWithType: CountProduct.Add
+- uid: ClassLibraryProduct.CountProduct.AddToJournal
+  name: AddToJournal()
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct_AddToJournal
+  commentId: M:ClassLibraryProduct.CountProduct.AddToJournal
+  fullName: ClassLibraryProduct.CountProduct.AddToJournal()
+  nameWithType: CountProduct.AddToJournal()
+- uid: ClassLibraryProduct.CountProduct.AddToJournal*
+  name: AddToJournal
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct_AddToJournal_
+  commentId: Overload:ClassLibraryProduct.CountProduct.AddToJournal
+  isSpec: "True"
+  fullName: ClassLibraryProduct.CountProduct.AddToJournal
+  nameWithType: CountProduct.AddToJournal
+- uid: ClassLibraryProduct.CountProduct.GetInfo
+  name: GetInfo()
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct_GetInfo
+  commentId: M:ClassLibraryProduct.CountProduct.GetInfo
+  fullName: ClassLibraryProduct.CountProduct.GetInfo()
+  nameWithType: CountProduct.GetInfo()
+- uid: ClassLibraryProduct.CountProduct.GetInfo*
+  name: GetInfo
+  href: api/ClassLibraryProduct.CountProduct.html#ClassLibraryProduct_CountProduct_GetInfo_
+  commentId: Overload:ClassLibraryProduct.CountProduct.GetInfo
+  isSpec: "True"
+  fullName: ClassLibraryProduct.CountProduct.GetInfo
+  nameWithType: CountProduct.GetInfo
+- uid: ClassLibraryProduct.Product
+  name: Product
+  href: api/ClassLibraryProduct.Product.html
+  commentId: T:ClassLibraryProduct.Product
+  fullName: ClassLibraryProduct.Product
+  nameWithType: Product
+- uid: ClassLibraryProduct.Product.#ctor
+  name: Product()
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product__ctor
+  commentId: M:ClassLibraryProduct.Product.#ctor
+  fullName: ClassLibraryProduct.Product.Product()
+  nameWithType: Product.Product()
+- uid: ClassLibraryProduct.Product.#ctor(System.String)
+  name: Product(String)
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product__ctor_System_String_
+  commentId: M:ClassLibraryProduct.Product.#ctor(System.String)
+  fullName: ClassLibraryProduct.Product.Product(System.String)
+  nameWithType: Product.Product(String)
+- uid: ClassLibraryProduct.Product.#ctor(System.String,System.String)
+  name: Product(String, String)
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product__ctor_System_String_System_String_
+  commentId: M:ClassLibraryProduct.Product.#ctor(System.String,System.String)
+  fullName: ClassLibraryProduct.Product.Product(System.String, System.String)
+  nameWithType: Product.Product(String, String)
+- uid: ClassLibraryProduct.Product.#ctor(System.String,System.String,System.String)
+  name: Product(String, String, String)
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product__ctor_System_String_System_String_System_String_
+  commentId: M:ClassLibraryProduct.Product.#ctor(System.String,System.String,System.String)
+  fullName: ClassLibraryProduct.Product.Product(System.String, System.String, System.String)
+  nameWithType: Product.Product(String, String, String)
+- uid: ClassLibraryProduct.Product.#ctor(System.String,System.String,System.String,System.Single)
+  name: Product(String, String, String, Single)
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product__ctor_System_String_System_String_System_String_System_Single_
+  commentId: M:ClassLibraryProduct.Product.#ctor(System.String,System.String,System.String,System.Single)
+  fullName: ClassLibraryProduct.Product.Product(System.String, System.String, System.String, System.Single)
+  nameWithType: Product.Product(String, String, String, Single)
+- uid: ClassLibraryProduct.Product.#ctor(System.String,System.String,System.String,System.Single,System.String)
+  name: Product(String, String, String, Single, String)
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product__ctor_System_String_System_String_System_String_System_Single_System_String_
+  commentId: M:ClassLibraryProduct.Product.#ctor(System.String,System.String,System.String,System.Single,System.String)
+  fullName: ClassLibraryProduct.Product.Product(System.String, System.String, System.String, System.Single, System.String)
+  nameWithType: Product.Product(String, String, String, Single, String)
+- uid: ClassLibraryProduct.Product.#ctor*
+  name: Product
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product__ctor_
+  commentId: Overload:ClassLibraryProduct.Product.#ctor
+  isSpec: "True"
+  fullName: ClassLibraryProduct.Product.Product
+  nameWithType: Product.Product
+- uid: ClassLibraryProduct.Product.AddToJournal
+  name: AddToJournal()
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_AddToJournal
+  commentId: M:ClassLibraryProduct.Product.AddToJournal
+  fullName: ClassLibraryProduct.Product.AddToJournal()
+  nameWithType: Product.AddToJournal()
+- uid: ClassLibraryProduct.Product.AddToJournal*
+  name: AddToJournal
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_AddToJournal_
+  commentId: Overload:ClassLibraryProduct.Product.AddToJournal
+  isSpec: "True"
+  fullName: ClassLibraryProduct.Product.AddToJournal
+  nameWithType: Product.AddToJournal
+- uid: ClassLibraryProduct.Product.comment
+  name: comment
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_comment
+  commentId: F:ClassLibraryProduct.Product.comment
+  fullName: ClassLibraryProduct.Product.comment
+  nameWithType: Product.comment
+- uid: ClassLibraryProduct.Product.date
+  name: date
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_date
+  commentId: F:ClassLibraryProduct.Product.date
+  fullName: ClassLibraryProduct.Product.date
+  nameWithType: Product.date
+- uid: ClassLibraryProduct.Product.GetInfo
+  name: GetInfo()
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_GetInfo
+  commentId: M:ClassLibraryProduct.Product.GetInfo
+  fullName: ClassLibraryProduct.Product.GetInfo()
+  nameWithType: Product.GetInfo()
+- uid: ClassLibraryProduct.Product.GetInfo*
+  name: GetInfo
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_GetInfo_
+  commentId: Overload:ClassLibraryProduct.Product.GetInfo
+  isSpec: "True"
+  fullName: ClassLibraryProduct.Product.GetInfo
+  nameWithType: Product.GetInfo
+- uid: ClassLibraryProduct.Product.name
+  name: name
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_name
+  commentId: F:ClassLibraryProduct.Product.name
+  fullName: ClassLibraryProduct.Product.name
+  nameWithType: Product.name
+- uid: ClassLibraryProduct.Product.price
+  name: price
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_price
+  commentId: F:ClassLibraryProduct.Product.price
+  fullName: ClassLibraryProduct.Product.price
+  nameWithType: Product.price
+- uid: ClassLibraryProduct.Product.producer
+  name: producer
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_producer
+  commentId: F:ClassLibraryProduct.Product.producer
+  fullName: ClassLibraryProduct.Product.producer
+  nameWithType: Product.producer
+- uid: ClassLibraryProduct.Product.ShowException(System.Exception)
+  name: ShowException(Exception)
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_ShowException_System_Exception_
+  commentId: M:ClassLibraryProduct.Product.ShowException(System.Exception)
+  fullName: ClassLibraryProduct.Product.ShowException(System.Exception)
+  nameWithType: Product.ShowException(Exception)
+- uid: ClassLibraryProduct.Product.ShowException*
+  name: ShowException
+  href: api/ClassLibraryProduct.Product.html#ClassLibraryProduct_Product_ShowException_
+  commentId: Overload:ClassLibraryProduct.Product.ShowException
+  isSpec: "True"
+  fullName: ClassLibraryProduct.Product.ShowException
+  nameWithType: Product.ShowException
+- uid: ClassLibraryProduct.WeightProduct
+  name: WeightProduct
+  href: api/ClassLibraryProduct.WeightProduct.html
+  commentId: T:ClassLibraryProduct.WeightProduct
+  fullName: ClassLibraryProduct.WeightProduct
+  nameWithType: WeightProduct
+- uid: ClassLibraryProduct.WeightProduct.#ctor
+  name: WeightProduct()
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct__ctor
+  commentId: M:ClassLibraryProduct.WeightProduct.#ctor
+  fullName: ClassLibraryProduct.WeightProduct.WeightProduct()
+  nameWithType: WeightProduct.WeightProduct()
+- uid: ClassLibraryProduct.WeightProduct.#ctor(System.String,System.String,System.Single)
+  name: WeightProduct(String, String, Single)
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct__ctor_System_String_System_String_System_Single_
+  commentId: M:ClassLibraryProduct.WeightProduct.#ctor(System.String,System.String,System.Single)
+  fullName: ClassLibraryProduct.WeightProduct.WeightProduct(System.String, System.String, System.Single)
+  nameWithType: WeightProduct.WeightProduct(String, String, Single)
+- uid: ClassLibraryProduct.WeightProduct.#ctor(System.String,System.String,System.String,System.Single,System.Single)
+  name: WeightProduct(String, String, String, Single, Single)
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct__ctor_System_String_System_String_System_String_System_Single_System_Single_
+  commentId: M:ClassLibraryProduct.WeightProduct.#ctor(System.String,System.String,System.String,System.Single,System.Single)
+  fullName: ClassLibraryProduct.WeightProduct.WeightProduct(System.String, System.String, System.String, System.Single, System.Single)
+  nameWithType: WeightProduct.WeightProduct(String, String, String, Single, Single)
+- uid: ClassLibraryProduct.WeightProduct.#ctor(System.String,System.String,System.String,System.Single,System.String,System.Single,System.String,System.String)
+  name: WeightProduct(String, String, String, Single, String, Single, String, String)
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct__ctor_System_String_System_String_System_String_System_Single_System_String_System_Single_System_String_System_String_
+  commentId: M:ClassLibraryProduct.WeightProduct.#ctor(System.String,System.String,System.String,System.Single,System.String,System.Single,System.String,System.String)
+  fullName: ClassLibraryProduct.WeightProduct.WeightProduct(System.String, System.String, System.String, System.Single, System.String, System.Single, System.String, System.String)
+  nameWithType: WeightProduct.WeightProduct(String, String, String, Single, String, Single, String, String)
+- uid: ClassLibraryProduct.WeightProduct.#ctor*
+  name: WeightProduct
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct__ctor_
+  commentId: Overload:ClassLibraryProduct.WeightProduct.#ctor
+  isSpec: "True"
+  fullName: ClassLibraryProduct.WeightProduct.WeightProduct
+  nameWithType: WeightProduct.WeightProduct
+- uid: ClassLibraryProduct.WeightProduct.AddProduct(System.Single)
+  name: AddProduct(Single)
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct_AddProduct_System_Single_
+  commentId: M:ClassLibraryProduct.WeightProduct.AddProduct(System.Single)
+  fullName: ClassLibraryProduct.WeightProduct.AddProduct(System.Single)
+  nameWithType: WeightProduct.AddProduct(Single)
+- uid: ClassLibraryProduct.WeightProduct.AddProduct*
+  name: AddProduct
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct_AddProduct_
+  commentId: Overload:ClassLibraryProduct.WeightProduct.AddProduct
+  isSpec: "True"
+  fullName: ClassLibraryProduct.WeightProduct.AddProduct
+  nameWithType: WeightProduct.AddProduct
+- uid: ClassLibraryProduct.WeightProduct.AddToJournal
+  name: AddToJournal()
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct_AddToJournal
+  commentId: M:ClassLibraryProduct.WeightProduct.AddToJournal
+  fullName: ClassLibraryProduct.WeightProduct.AddToJournal()
+  nameWithType: WeightProduct.AddToJournal()
+- uid: ClassLibraryProduct.WeightProduct.AddToJournal*
+  name: AddToJournal
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct_AddToJournal_
+  commentId: Overload:ClassLibraryProduct.WeightProduct.AddToJournal
+  isSpec: "True"
+  fullName: ClassLibraryProduct.WeightProduct.AddToJournal
+  nameWithType: WeightProduct.AddToJournal
+- uid: ClassLibraryProduct.WeightProduct.GetInfo
+  name: GetInfo()
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct_GetInfo
+  commentId: M:ClassLibraryProduct.WeightProduct.GetInfo
+  fullName: ClassLibraryProduct.WeightProduct.GetInfo()
+  nameWithType: WeightProduct.GetInfo()
+- uid: ClassLibraryProduct.WeightProduct.GetInfo*
+  name: GetInfo
+  href: api/ClassLibraryProduct.WeightProduct.html#ClassLibraryProduct_WeightProduct_GetInfo_
+  commentId: Overload:ClassLibraryProduct.WeightProduct.GetInfo
+  isSpec: "True"
+  fullName: ClassLibraryProduct.WeightProduct.GetInfo
+  nameWithType: WeightProduct.GetInfo
